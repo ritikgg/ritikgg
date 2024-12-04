@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/ritikgoswami25" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/ritikgoswami25?logo=twitter&style=for-the-badge" alt="https://twitter.com/ritikgoswami25" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Boot,Development**
+- 🌱 I’m currently learning **MERN, and other WEB Devlopment Tech**
 
-- 💬 Ask me about **Java, DSA, Leetcode, Problem Solving, Logic Building**
+- 💬 Ask me about **Javascript, Node.js, React.js, Recoil, Serverless Architecture, Problem Solving**
 
 - 📫 How to reach me **goswamiritik25@gmail.com**
 
