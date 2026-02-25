@@ -5,7 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=ritikgg&theme=onedark" alt="ritikgg" /></a> </p>
 
-<p align="left"> <a href="https://x.com/RitikGoswami25" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/ritikgoswami25?logo=twitter&style=for-the-badge" alt="https://twitter.com/ritikgoswami25" /></a> </p>
+<p align="left">
+  <a href="https://x.com/RitikGoswami25" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/RitikGoswami25?logo=twitter&style=for-the-badge" 
+         alt="RitikGoswami25 on X" />
+  </a>
+</p>
 
 - 🌱 I’m currently learning **MERN, and other WEB Devlopment Tech**
 
